@@ -1,10 +1,10 @@
 # A demo about Google Percolator
 
-[The paper about the Percolator]()
+[The paper about the Percolator](https://github.com/chenboability/Percolator/blob/master/ads-percolator.pdf)
 
-[Understanding of the paper and presentation]()
+[Understanding of the paper and presentation](https://github.com/chenboability/Percolator/blob/master/ads-week%206.pdf)
 
-[Our demo design]()
+[Our demo design](https://github.com/chenboability/Percolator/blob/master/ads-demo.pdf)
 
 configuration environment
 
